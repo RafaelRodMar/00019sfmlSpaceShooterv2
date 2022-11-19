@@ -1,0 +1,10 @@
+fnt font hour5.ttf
+img asteroid asteroid.png
+img background background.png
+img explosion explosion.png
+img player player.png
+img shot shot.png
+mus music dst-towerdefensetheme.ogg
+snd explosion+3 explosion+3.wav
+snd explosion+6 explosion+6.wav
+snd laser laserblasts.wav

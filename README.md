@@ -1,2 +1,2 @@
-# 00019sfmlSpaceShooterv2
-Space Shooter made with SFML.
+# SpaceShooterv2
+ Space Shooter with the sfml game engine
